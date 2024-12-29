@@ -1,2 +1,7 @@
 # Crime-Pattern-Analysis
 Analyzing Crime Patterns in Montgomery County, USA: An Inclusive Study Based on NIBRS Data (2016-2022)
+
+This study aims to present an analysis of crime pattern in Montgomery County, USA, with the data derived from National Incident-Based Reporting System (NIBRS) of the Criminal Justice Information Services (CJIS) Division Uniform Crime Reporting (UCR) Program. The given dataset covers the period from 2016 to 2022, including details on crimes based on Montgomery County’s UCR rules and provides details on reported crimes.	
+
+The primary objective is to analyse patterns in crime occurrences considering various factors in Montgomery County. By examining the dataset, we aim to identify the types of crimes, their frequencies, and potential categorizations. This will provide valuable insights to the local government in mitigating crime rates. In addition, the findings may contribute to supporting not only the local government but also national efforts to minimize specific types of crimes and forecast crime patterns in future.
+The study utilizes statistical and data analysis techniques to visualise trends, categorization, and areas for potential intervention. Through these visualizations, the research seeks to provide actionable recommendations to Montgomery County's local police agencies, contributing to enhanced public safety.
