@@ -7,7 +7,8 @@ The primary objective is to analyse patterns in crime occurrences considering va
 The study utilizes statistical and data analysis techniques to visualise trends, categorization, and areas for potential intervention. Through these visualizations, the research seeks to provide actionable recommendations to Montgomery County's local police agencies, contributing to enhanced public safety.
 
 
-Common Libraries used –
+
+# Common Libraries used –
 
 •	Numpy
 
@@ -18,7 +19,8 @@ Common Libraries used –
 •	Matplotlib
 
 
-Most used functions and object –
+
+# Most used functions and object –
        
 •	Np.where() – For grouping and merging data.
 
