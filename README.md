@@ -10,16 +10,24 @@ The study utilizes statistical and data analysis techniques to visualise trends,
 Common Libraries used –
 
 •	Numpy
+
 •	Pandas
+
 •	Seaborn
+
 •	Matplotlib
 
 
 Most used functions and object –
        
 •	Np.where() – For grouping and merging data.
+
 •	Value_counts() – to find the frequency of the item
-•	Countplot() – to plot the bar graph(X, Y axis and hue attributes                            changes according to the requirement).
+
+•	Countplot() – to plot the bar graph(X, Y axis and hue attributes changes according to the requirement).
+
 •	Container object – to present the precise count for each item and enhancing the granularity of the visualization. 
+
 •	Color palette – is used for choosing the custom colour palette.
+
 •	Scatterplot() – to visualize the pictorial representation and maps.
