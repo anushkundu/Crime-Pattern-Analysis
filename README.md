@@ -6,7 +6,14 @@ The primary objective is to analyse patterns in crime occurrences considering va
 
 The study utilizes statistical and data analysis techniques to visualise trends, categorization, and areas for potential intervention. Through these visualizations, the research seeks to provide actionable recommendations to Montgomery County's local police agencies, contributing to enhanced public safety.
 
+ # Key Tasks -
+ •	Cleaned and preprocessed large datasets from the National Incident-Based Reporting System (NIBRS).
 
+•	Conducted exploratory data analysis (EDA) and created visualizations to identify crime trends and patterns.
+
+•	Performed statistical analysis to highlight high-crime areas and seasonal trends.
+
+•	Developed intuitive visualizations to effectively communicate findings to stakeholders.
 
 # Common Libraries used –
 
