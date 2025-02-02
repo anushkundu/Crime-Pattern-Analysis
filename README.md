@@ -1,4 +1,4 @@
-ss# Analyzing Crime Patterns in Montgomery County, USA: An Inclusive Study Based on NIBRS Data (2016-2022)
+# Analyzing Crime Patterns in Montgomery County, USA: An Inclusive Study Based on NIBRS Data (2016-2022)
 
 This study aims to present an analysis of crime pattern in Montgomery County, USA, with the data derived from National Incident-Based Reporting System (NIBRS) of the Criminal Justice Information Services (CJIS) Division Uniform Crime Reporting (UCR) Program. The given dataset covers the period from 2016 to 2022, including details on crimes based on Montgomery County’s UCR rules and provides details on reported crimes.	
 
